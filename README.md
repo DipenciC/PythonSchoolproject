@@ -1,2 +1,2 @@
-# PythonSchoolproject
-School Project. Thats it.
+# Python School Project
+Nothing to see here
